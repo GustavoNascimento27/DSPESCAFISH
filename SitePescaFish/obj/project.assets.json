@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\SitePescaFish\\SitePescaFish.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\DSPescaFish\\SitePescaFish\\SitePescaFish.csproj",
       "projectName": "SitePescaFish",
-      "projectPath": "C:\\Users\\Gustavo\\Desktop\\SitePescaFish\\SitePescaFish.csproj",
+      "projectPath": "C:\\Users\\Gustavo\\Desktop\\DSPescaFish\\SitePescaFish\\SitePescaFish.csproj",
       "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\Desktop\\SitePescaFish\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo\\Desktop\\DSPescaFish\\SitePescaFish\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
